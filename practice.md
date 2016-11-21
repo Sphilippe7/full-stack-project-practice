@@ -8,16 +8,20 @@ complete any part of this.
 
 ## Project Idea
 
-What is your project idea?  How did you come up with it? Why? Who would use it?
+My project idea is to create an API that lists all the video games coming out for
+the year
 
 ## Write between 3-5 user stories
 
-We have gone over this before. Please refer to your notes, previous repos or the
-google machine if you need further assistance.
+- users will be able to look up a month
+- users will be able to look up a genre of video game
+- users will be able to look up a video game platform
+- users will be able to get all the game's information and small description
 
 ## Plan your tables and columns
 
-What tables will you need? What will the columns on the table be?
+I will create a table for Video games then create columns for month, genre, platform,
+and description
 
 ## Create an ERD (entity relationship diagram)
 
@@ -30,13 +34,13 @@ What routes will you need to be able to make the proper request to your API?
 
 ## 3rd Party APIs
 
-Do you plan to use any, if so what are they?
+I'll most likely use GameStop's API if it is available
 
 ## Wireframes
 
-Please create a wireframe of your planned front end.
+Will have wirefram done by Tuesday
 
 ## Timetable
 
-Write a basic timetable for yourself, you don't have to stick to it but it
-helps to go in with a plan.
+I plan to begin creating the API Tuesday night. Then I will do as much as I can
+over the long weekend, opening issues and getting help when I can.
